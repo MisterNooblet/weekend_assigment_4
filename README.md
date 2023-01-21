@@ -1,4 +1,9 @@
 
+# AppleSeed's Weekend assigment #4
+
+We were given a batch of questions sorted by categories and were asked to answer all of them.
+
+
 ## Sections Breakdown
 
 #### Basic 
